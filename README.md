@@ -1,4 +1,4 @@
- Key Elements of a Sales Optimization Dashboard
+ Key Elements used in National Sales Optimization Dashboard
 1. Summary Cards (KPIs)
 2. Total Sales
 
